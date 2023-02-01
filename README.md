@@ -1,4 +1,4 @@
-Hi, I’m Chyna! My background is in Windows system administration and VMware administration and engineering. I have recently started writing curriculum for Red Hat.
+Hi, I’m Chyna! My background is in Windows system administration and VMware administration and engineering. I write training courses for Red Hat.
 
 Outside of work, I’m interested in philosophy, traveling, language learning, art, cooking, and video games. 
 
