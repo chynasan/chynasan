@@ -1,6 +1,8 @@
 Hi, I’m Chyna! My background is in Windows system administration and VMware administration and engineering. I wrote training courses for Red Hat, and now work on Ansible.
 
-Outside of work, I’m interested in philosophy, traveling, music, art, cooking, and video games. 
+Outside of work, I’m interested in philosophy, traveling, music, art, cooking, and video games.
+
+My stack runneth over.
 
 <!---
 chynasan/chynasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
